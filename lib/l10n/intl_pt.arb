@@ -1,0 +1,23 @@
+{
+  "infoUnavailable": "Ainda não existe informação disponível\n para mostrar!",
+  "refresh": "Atualizar",
+  "error": "Erro!",
+  "locationPermissions": "Permissões de localização não permitidas!",
+  "locationService": "Serviço de localização não disponível! Atualize!",
+  "humidity": "\nHumidade",
+  "Precipitation": "\nPrecipitação",
+  "windSpeed": "\nVento",
+  "Pressure": "\nPressão",
+  "clearSky": "Céu Limpo",
+  "fewClouds": "Few clouds",
+  "scatteredClouds": "Scattered clouds",
+  "brokenClouds": "Broken clouds",
+  "showerRain": "Shower rain",
+  "rain": "Rain",
+  "thunderstorm": "Thunderstorm",
+  "snow": "Snow",
+  "mist": "Mist",
+  "clear": "Clear",
+  "drizzle": "Drizzle",
+  "clouds": "Clouds"
+}
