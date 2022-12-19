@@ -6,4 +6,3 @@
 
 ### Notes
 - Flutter WeatherApp using OpenWeatherMapAPI
-- Made in VS code
