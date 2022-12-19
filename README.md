@@ -7,9 +7,3 @@
 ### Notes
 - Flutter WeatherApp using OpenWeatherMapAPI
 - Made in VS code
-
-#### Some layouts
-<p align="center">
-<img src="https://www.linkpicture.com/q/1645187627650.jpg" width="25%" >
-<img src="https://www.linkpicture.com/q/1645187627635.jpg" width="25%" > 
- </p>
